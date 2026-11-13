@@ -1,0 +1,6 @@
+{
+  "name": "Sddnin Launcher",
+  "description": "Launcher 2.0 cho Android kết hợp Nova Launcher và Microsoft Launcher: Smart Grid, Feed AI, Smart Stack, Gesture Studio & Macro, NLP Assistant, Theme Engine, Vault mã hóa và Chế độ chơi game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
